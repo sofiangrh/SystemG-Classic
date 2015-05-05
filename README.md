@@ -1,0 +1,2 @@
+# SystemG-Classic
+Metacity Theme
